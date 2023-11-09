@@ -49,11 +49,11 @@ else ()
     add_compile_options(-Og -g)
 endif ()
 
-include_directories(Core/Inc Drivers/STM32F1xx_HAL_Driver/Inc Drivers/STM32F1xx_HAL_Driver/Inc/Legacy Drivers/CMSIS/Device/ST/STM32F1xx/Include Drivers/CMSIS/Include Inc)
+include_directories(Core/Inc USER/ Drivers/STM32F1xx_HAL_Driver/Inc Drivers/STM32F1xx_HAL_Driver/Inc/Legacy Drivers/CMSIS/Device/ST/STM32F1xx/Include Drivers/CMSIS/Include Inc)
 
 add_definitions(-DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6)
 
-file(GLOB_RECURSE SOURCES "Core/Startup/*.*" "Core/Src/*.*" "Drivers/*.*")
+file(GLOB_RECURSE SOURCES "Core/Startup/*.*" "Core/Src/*.*" "Drivers/*.*" "USER/*.c")
 
 set(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F103C6TX_FLASH.ld)
 

@@ -32,7 +32,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-
+ 
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -60,11 +60,12 @@ extern CAN_HandleTypeDef hcan;
 extern TIM_HandleTypeDef htim1;
 extern TIM_HandleTypeDef htim3;
 /* USER CODE BEGIN EV */
-
+extern void SysTick_UserExec(void);
+extern void Beep_IRQHandler(void);
 /* USER CODE END EV */
 
 /******************************************************************************/
-/*           Cortex-M3 Processor Interruption and Exception Handlers          */
+/*           Cortex-M3 Processor Interruption and Exception Handlers          */ 
 /******************************************************************************/
 /**
   * @brief This function handles Non maskable interrupt.
@@ -184,7 +185,7 @@ void PendSV_Handler(void)
 void SysTick_Handler(void)
 {
   /* USER CODE BEGIN SysTick_IRQn 0 */
-
+	SysTick_UserExec();
   /* USER CODE END SysTick_IRQn 0 */
   HAL_IncTick();
   /* USER CODE BEGIN SysTick_IRQn 1 */
@@ -233,7 +234,7 @@ void TIM1_BRK_IRQHandler(void)
 void TIM1_UP_IRQHandler(void)
 {
   /* USER CODE BEGIN TIM1_UP_IRQn 0 */
-
+	Beep_IRQHandler();
   /* USER CODE END TIM1_UP_IRQn 0 */
   HAL_TIM_IRQHandler(&htim1);
   /* USER CODE BEGIN TIM1_UP_IRQn 1 */
@@ -261,7 +262,7 @@ void TIM1_TRG_COM_IRQHandler(void)
 void TIM1_CC_IRQHandler(void)
 {
   /* USER CODE BEGIN TIM1_CC_IRQn 0 */
-
+	
   /* USER CODE END TIM1_CC_IRQn 0 */
   HAL_TIM_IRQHandler(&htim1);
   /* USER CODE BEGIN TIM1_CC_IRQn 1 */
@@ -286,3 +287,4 @@ void TIM3_IRQHandler(void)
 /* USER CODE BEGIN 1 */
 
 /* USER CODE END 1 */
+/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/

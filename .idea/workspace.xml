@@ -20,13 +20,33 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4d0b89-921c-4e82-abc9-2f49e0c56bac" name="Changes" comment="" />
+    <list default="true" id="cc4d0b89-921c-4e82-abc9-2f49e0c56bac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/can.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/can.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/gpio.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/gpio.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/tim.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/tim.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/can.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/can.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/gpio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/gpio.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/system_stm32f1xx.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/system_stm32f1xx.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/tim.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/tim.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,15 +65,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.advertisement.text.overridden": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/yuchen/CLionProjects/stm32-foc-raw/CMakeLists.txt",
+    "last_opened_file_path": "/home/yuchen/CLionProjects/stm32-foc-raw/Core",
     "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Core" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Core" />
     </key>
@@ -87,8 +111,20 @@
       <option name="presentableId" value="Default" />
       <updated>1699535740705</updated>
       <workItem from="1699535763582" duration="1624000" />
-      <workItem from="1699537947605" duration="1459000" />
+      <workItem from="1699537947605" duration="2074000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit.">
+      <created>1699539589021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699539589021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
   </component>
 </project>
