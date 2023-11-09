@@ -21,22 +21,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4d0b89-921c-4e82-abc9-2f49e0c56bac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/can.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/can.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/gpio.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/gpio.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/tim.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/tim.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/can.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/can.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/gpio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/gpio.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/system_stm32f1xx.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/system_stm32f1xx.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/tim.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/tim.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/can.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/can.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/gpio.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/gpio.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/stm32f1xx_it.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/tim.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/tim.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/can.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/can.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/gpio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/gpio.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/stm32f1xx_hal_msp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/system_stm32f1xx.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/system_stm32f1xx.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/tim.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/tim.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc.uvguix.11635" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/C6T6SimpleFoc_C6T6SimpleFoc.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/bldcmotor.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/bldcmotor.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/bldcmotor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/can.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/can.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/flashstorage.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/flashstorage.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/flashstorage.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/foc_utils.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/foc_utils.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/foc_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/focmotor.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/focmotor.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/focmotor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/magneticsensor.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/magneticsensor.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/magneticsensor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/startup_stm32f103x6.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/startup_stm32f103x6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_can.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_can.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_cortex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_cortex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_cortex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_dma.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_dma.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_exti.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_exti.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_exti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_flash.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_flash.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_flash_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_flash_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_flash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_gpio_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_gpio_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_gpio_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_msp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_msp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_msp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_pwr.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_pwr.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_rcc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_rcc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_rcc_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_rcc_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_rcc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_tim.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_tim.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_tim_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_tim_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_hal_tim_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_it.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_it.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/stm32f1xx_it.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/system_stm32f1xx.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/system_stm32f1xx.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/system_stm32f1xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/tim.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/tim.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/C6T6SimpleFoc/tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/DebugConfig/C6T6SimpleFoc_STM32F103C6_1.0.0.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RTE/_C6T6SimpleFoc/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/startup_stm32f103x6.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/startup_stm32f103x6.s" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +167,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "last_opened_file_path": "/home/yuchen/CLionProjects/stm32-foc-raw/Core",
-    "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config"
+    "settings.editor.selected.configurable": "settings.saveactions"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,6 +175,9 @@
       <recent name="$PROJECT_DIR$/Core" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Inc" />
+      <recent name="$PROJECT_DIR$/Src" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Core" />
     </key>
   </component>
@@ -111,7 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699535740705</updated>
       <workItem from="1699535763582" duration="1624000" />
-      <workItem from="1699537947605" duration="2074000" />
+      <workItem from="1699537947605" duration="3158000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <created>1699539589021</created>
@@ -120,11 +219,19 @@
       <option name="project" value="LOCAL" />
       <updated>1699539589021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add functions.">
+      <created>1699540068569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699540068569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
+    <MESSAGE value="Add functions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add functions." />
   </component>
 </project>
